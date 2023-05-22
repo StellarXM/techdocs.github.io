@@ -1,4 +1,4 @@
-baseURL = "http://StellarXM.github.io"
+baseURL = "http://StellarXM.github.io/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Hugo Scenario-Based Documentation"
